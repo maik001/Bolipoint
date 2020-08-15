@@ -1,0 +1,4 @@
+O sistema intitulado de Bolipoint tem como diretriz ser um serviço de apoio aos jogos de boliche competitivos e/ou amistosos.
+Toda o seu sistema de armazenamento é constituido por um banco com as entidades: Jogador, Partida, ResultFinal e Usuario. atraves dessas entidades o sistema de armazenamento de dados deverá cadastrar um tecnico(juiz) para o sistema onde esse, terá que adicionar o nome dos jogadores e suas respectivas "pontuações"(quantidade de pinos derrubados) esse 
+valor será calculado e convertido para uma pontução apartir das regras do jogo gerando assim uma pontução.
+Esse conjunto de ações deve responder as situções de cada partida(empate,Derrota e Vitoria) de maneira harmonica e funcional afim de facilitar a vida dos proficionais do esporte.

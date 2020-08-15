@@ -1,0 +1,61 @@
+body,hmtl{
+	margin:0;
+}
+
+.fonte-small{
+		font-size:3vmin;
+		
+}
+
+.footer{
+		
+		color: #fff;
+		background-color:#534;
+		widht:100%;
+		height:15vh;
+}
+
+.cont{
+	
+	justify-content:center;
+	display:flex;
+	align-items:center;
+}
+
+
+.imgg{
+	
+	width:100%;
+}
+
+.cads{
+	
+	
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	position:relative;
+
+}
+
+.cad{
+	position:absolute;
+	display: inline-block;
+	color:#fff;
+	font-family:;
+	font-size:3vmin;
+	font-style:bold;
+	
+}
+
+.ip{
+	
+}
+
+.inpN{
+	
+	
+
+.tdd{
+	
+}
